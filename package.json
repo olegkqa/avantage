@@ -20,6 +20,7 @@
     "gulp-cli": "github:gulpjs/gulp-cli"
   },
   "devDependencies": {
-    "gulp": "github:gulpjs/gulp#4.0"
+    "gulp": "github:gulpjs/gulp#4.0",
+    "gulp-pug": "^3.3.0"
   }
 }
