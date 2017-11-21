@@ -20,6 +20,7 @@
     "gulp-cli": "github:gulpjs/gulp-cli"
   },
   "devDependencies": {
+    "browser-sync": "^2.18.13",
     "gulp": "github:gulpjs/gulp#4.0",
     "gulp-autoprefixer": "^4.0.0",
     "gulp-csso": "^3.0.0",
